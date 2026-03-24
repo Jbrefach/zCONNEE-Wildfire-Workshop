@@ -10,7 +10,7 @@ This repository contains material from the z/OS Connect EE Wildfire workshops ru
 
 **JCL folder** provides JCL Samples
 
-**CNTL folder** provides control statements, JCL, configuration parameters, and more
+**CNTL folder** provides samples of control statements, JCL, configuration parameters, and more
 
 **z/OS Connect Topics guide** has a wide variety of topics, best practices, configuration support, and more pertaining to z/OS Connect
 
