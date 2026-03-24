@@ -1,6 +1,6 @@
 This repository contains material from the z/OS Connect EE Wildfire workshops run by the IBM Washington Systems Center. It is should be referenced frequently for updates to the presentations, exercices, samples and other material.
 
-**APIRequester**,**OpenAPI2** and **OpenAPI 3** **folders** contain lab exercises for z/OS Connect
+**APIRequester**, **OpenAPI2** and **OpenAPI 3** **folders** contain lab exercises for z/OS Connect
 
 **Case Studies & Educational Material folder** contains best practices, configuration help, and educational packages to help understand certain topics 
 
