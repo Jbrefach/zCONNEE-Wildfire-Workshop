@@ -4,13 +4,13 @@ This repository contains material from the z/OS Connect EE Wildfire workshops ru
 
 **Case Studies & Educational Material folder** contains best practices, configuration help, and educational packages to help understand certain topics 
 
-**ZCEE** and **Liberty workshop folders** contain PDFs of our Wildfire Workshop Presentations 
-
 **ZCEE Container Material** contains labs and best practices for z/OS Connect Container configuration
 
-**JCL folder** provides JCL Samples
+**ZCEE** and **Liberty workshop folders** contain PDFs of our Wildfire Workshop Presentations 
 
 **CNTL folder** provides samples of control statements, JCL, configuration parameters, and more
+
+**JCL folder** provides JCL Samples
 
 **z/OS Connect Topics guide** has a wide variety of topics, best practices, configuration support, and more pertaining to z/OS Connect
 
